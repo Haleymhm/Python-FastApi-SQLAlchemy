@@ -1,6 +1,6 @@
 # Python-FastApi-SQLAlchemy
 
-Prueba técnica de selección para napsis.com
+
 
 ## Requerimientos
 Tener instalado Python 3.x
