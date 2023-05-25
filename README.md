@@ -8,7 +8,7 @@ Tener instalado Python 3.x
 ## Instalación
 
 1. Clonar el proyecto
-   ` git clone https://github.com/Haleymhm/python-fonasa.git `
+   ` git clone https://github.com/Haleymhm/Python-FastApi-SQLAlchemy.git `
 
 2. Ingresar a la carpeta del proyecto
     ``` 
